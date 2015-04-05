@@ -1,0 +1,35 @@
+http://www.vogella.com/tutorials/AndroidServices/article.html
+http://stackoverflow.com/questions/7387294/run-gps-listener-in-background-android
+
+
+https://developers.google.com/maps/documentation/android/start#get_an_android_certificate_and_the_google_maps_api_key
+Certificate fingerprint (SHA1): B7:F9:DE:89:BF:8C:DB:88:CC:13:AC:E0:76:77:87:BC:CC:B4:02:1A
+
+API: AIzaSyDl8NYVES8zlnJGHZMaouASJvOr7FOLaFw
+
+<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />  
+<uses-permission android:name="android.permission.INTERNET" />
+
+1653 KDB HAMID
+411 * 3 FOREVER BD
+
+https://www.youtube.com/watch?v=19zUWMCJTnE
+
+4XN2Y-96YK3-M6HXG-7BVKR-DJY9B
+
+Add in tv channel
+8143878
+01710372244
+01919
+
+mobile number formats:
+http://www.wtng.info/wtng-cod.html#WZ1
+
+composer create-project laravel/laravel /Applications/MAMP/htdocs/test_laravel
+
+Point = Total Point - (Total Point * ((50 * Wrong Count * 5)/100 + (30 * Submission Time in minute)/Total time in minute)/100)
+
+Integrate automated SMS with software and explore limitless possibilities for increasing customer service and business process improvement. visit: sms4bd.com
+
+https://mspartner.microsoft.com/en/us/Pages/Licensing/Become-a-licensing-reseller.aspx
