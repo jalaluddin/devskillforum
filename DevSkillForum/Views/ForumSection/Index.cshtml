@@ -1,0 +1,16 @@
+﻿@model DevSkillForum.Models.ForumSectionModel
+@{
+    ViewBag.Title = "Forum Section";
+}
+
+<h2>Forum Sections</h2>
+<form method="post" action="/ForumSection/Index">
+    @Html.AntiForgeryToken()
+    ID: @Html.TextBoxFor(x => x.ID)
+    <br />
+    Name: @Html.TextBoxFor(x => x.Name)
+    <br />
+    Display Order: @Html.TextBoxFor(x => x.DisplayOrder)
+    <br />
+    <input type="submit" value="Save" />
+</form>
